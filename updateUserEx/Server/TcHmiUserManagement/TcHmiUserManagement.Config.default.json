@@ -1,0 +1,34 @@
+{
+    "USERS": {
+        "Admin": {
+            "ALGORITHM": 1,
+            "ENABLED": true,
+            "PASSWORD": "15c116d2902bb8367dbb301447f28ac6e74b44b15e9e041f83a410880791d63a18a6b690526a2e7da1ce9216570be9e997ce567a65cc6a52be1b6968e3cdb93e",
+            "SALT": "/ZS3rt/QH95DYV5o+XR3XgVJz3PIzzN+0sV4IqljO3aK9cr/+iayvkHjlrC0LeV742E2vJ5TZ3Jw+qn3cnuVfg=="
+        },
+        "Operator": {
+            "ALGORITHM": 1,
+            "ENABLED": true,
+            "PASSWORD": "329ba7d266b580e908592bdbd36410f5f2426217bc0974149483b153243723201ebe212d2e810b057d92d45d7d7812ae1172812c451a3bf001e4d57b13c02d1b",
+            "SALT": "tHzHPUDfpxViYyRj5eoiDBnBP/o9IUT7R8Hk2p9kTvhPfh0fcOmwS4G6sgFQ5CM6W8VaY4zHFEZYSFLpFkclVg=="
+        },
+        "__SystemAdministrator": {
+            "ALGORITHM": 0,
+            "ENABLED": true,
+            "PASSWORD": "eb550e1af4b8f5bec4f5665d50e786e1cba6a7186eda263919d348c41b35be2a",
+            "SALT": "4WzDv+QaFLgItsFt6d6/pvHo+tohPDkCxu+yqCWgdyRjvQsChuJMk72r54HqwMOD/FZ67wSjdnZEvUbzSg3gAA=="
+        },
+        "__SystemGuest": {
+            "ALGORITHM": 0,
+            "ENABLED": true,
+            "PASSWORD": "",
+            "SALT": ""
+        },
+        "__SystemUser": {
+            "ALGORITHM": 0,
+            "ENABLED": true,
+            "PASSWORD": "",
+            "SALT": ""
+        }
+    }
+}

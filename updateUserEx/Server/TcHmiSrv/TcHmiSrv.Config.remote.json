@@ -1,0 +1,10 @@
+{
+    "CERTIFICATEEXPIRATION": "P365D",
+    "REQUIREAUTH": 2,
+    "VIRTUALDIRECTORIES": {
+        "/": "www",
+        "/Beckhoff.TwinCAT.HMI.EventLogger": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.EventLogger.12.742.5",
+        "/Beckhoff.TwinCAT.HMI.RecipeManagement": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.RecipeManagement.12.742.5",
+        "/Beckhoff.TwinCAT.HMI.SqliteHistorize": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.SqliteHistorize.12.742.5"
+    }
+}
